@@ -4,11 +4,11 @@ import type { DocumentHead } from "@builder.io/qwik-city";
 export default component$(() => {
   return (
     <>
-      <h1>Hi 👋</h1>
+      <h1>Example Qwik app deployed on Netlify</h1>
       <div>
-        Can't wait to see what you build with qwik!
-        <br />
-        Happy coding.
+        🚀 Happy coding 🚀
+        <br/>
+        Github code here <a href='https://github.com/rabiabhatti/example-qwik-netlify-adapter-app'>Link</a>
       </div>
     </>
   );
