@@ -8,7 +8,7 @@ export default component$(() => {
       <div>
         🚀 Happy coding 🚀
         <br/>
-        Github code here <a target='_blank' rel="nofollow noopener" href='https://github.com/rabiabhatti/example-qwik-netlify-adapter-app'>Link</a>
+        Github code <a target='_blank' rel="nofollow noopener" href='https://github.com/rabiabhatti/example-qwik-netlify-adapter-app'>here</a>.
       </div>
     </>
   );
